@@ -1,0 +1,7 @@
+torch==1.2.0
+torchvision
+ipython
+ipdb
+opencv-python
+ipdb
+pytest
